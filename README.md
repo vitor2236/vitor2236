@@ -33,7 +33,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 
 ## 📫 Contato
-📧 **Email:** teuemail@gmail.com  
+📧 **Email:** vgmaximo@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
 🌐 **Portfólio:** [https://seu-usuario.github.io](https://seu-usuario.github.io)
 
