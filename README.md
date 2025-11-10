@@ -6,7 +6,7 @@ Gosto de criar interfaces limpas, responsivas e eficientes, sempre buscando apri
 
 ______________________________________________________________________________________________________
 
-## 🧠 Habilidades e ferramentas
+   🧠 Habilidades e ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -17,14 +17,14 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________
 
-## 🚀 Projetos em destaque
+   🚀 Projetos em destaque
 🔹 [DesignPagina](https://github.com/seu-usuario/DesignPagina) — layout responsivo com HTML e CSS  
 🔹 [Filtro de Imagem](https://github.com/seu-usuario/filtro31.08) — manipulação de filtros com JavaScript  
 🔹 [HomeYoutube](https://github.com/seu-usuario/HomeYoutube) — interface inspirada no YouTube  
 
 ______________________________________________________________________________________________________
 
-## 🎯 Objetivos
+  🎯 Objetivos
 - Consolidar fundamentos sólidos em **front-end**  
 - Aprender frameworks modernos como **React**  
 - Desenvolver projetos com foco em **usabilidade e desempenho real**  
@@ -32,10 +32,10 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________
 
-## 📫 Contato
-📧 **Email:** vgmaximo@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
-🌐 **Portfólio:** [https://seu-usuario.github.io](https://seu-usuario.github.io)
+   📫 Contato
+📧 Email:     vgmaximo@gmail.com  
+💼 LinkedIn:  www.linkedin.com/in/vitor-gottardi  
+🌐 Portfólio: https://github.com/vitor2236
 
 ______________________________________________________________________________________________________
 
